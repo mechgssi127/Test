@@ -346,3 +346,7 @@
     font-weight: 700;
   }
 }
+
+#mouse-follower {
+  border-radius: 0 !important;
+}
